@@ -1,2 +1,3 @@
-# module5-solution
-solution to module 5
+# Bistro site
+a simple website made using html, css and vanilla js.
+i have also used ajax for faster reload time of contents.
